@@ -28,8 +28,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/mocha", "npm:10.0.6"],\
+            ["@types/node", "npm:16.18.67"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
@@ -241,19 +241,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/mocha", [\
-        ["npm:10.0.2", {\
-          "packageLocation": "./.yarn/cache/@types-mocha-npm-10.0.2-d38f8534d9-a78a02691f.zip/node_modules/@types/mocha/",\
+        ["npm:10.0.6", {\
+          "packageLocation": "./.yarn/cache/@types-mocha-npm-10.0.6-a687c1962c-f7c836cf6c.zip/node_modules/@types/mocha/",\
           "packageDependencies": [\
-            ["@types/mocha", "npm:10.0.2"]\
+            ["@types/mocha", "npm:10.0.6"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:20.7.1", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.7.1-35d2d24f0c-3140bd6c91.zip/node_modules/@types/node/",\
+        ["npm:16.18.67", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.18.67-1030ec61fb-36a763d1fe.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.7.1"]\
+            ["@types/node", "npm:16.18.67"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2962,8 +2962,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["test-switcher", "workspace:."],\
-            ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/mocha", "npm:10.0.6"],\
+            ["@types/node", "npm:16.18.67"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
