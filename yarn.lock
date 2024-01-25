@@ -164,10 +164,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.7.1":
-  version: 20.7.1
-  resolution: "@types/node@npm:20.7.1"
-  checksum: 3140bd6c9130f1ed73a78ce7a1765ee43e155c1eea50eea45e18faeb31d11d97a84fffdc5e3a97582101d2f57d2652a50f510ede6c702780267bad74c822d56c
+"@types/node@npm:16.x":
+  version: 16.18.75
+  resolution: "@types/node@npm:16.18.75"
+  checksum: c118a26ee29c253fab45b393720d640f09cdc36d607a278756f9df30794a41d33eab898ca7aa987f33fe63bf88dc010e112aa83404d6e3df6be5c602ea205b2f
   languageName: node
   linkType: hard
 
@@ -308,14 +308,14 @@ __metadata:
   linkType: hard
 
 "@vscode/test-electron@npm:^2.3.4":
-  version: 2.3.4
-  resolution: "@vscode/test-electron@npm:2.3.4"
+  version: 2.3.9
+  resolution: "@vscode/test-electron@npm:2.3.9"
   dependencies:
     http-proxy-agent: ^4.0.1
     https-proxy-agent: ^5.0.0
     jszip: ^3.10.1
     semver: ^7.5.2
-  checksum: 78de21d66be5affa26789e41a3f645bd07978a993ef026219136e55e4b7025e5e13f03bd9a1a1696690f802fed3e2e363828d1933e5bd581cadee94655272f00
+  checksum: 76877419ab54a199a627fbad80a7188376db0fcfa04fb70d472c3512dd20e1a1256345684895f2daff4cc68eb0f207b6de0a4c67171d97183008b4f398128355
   languageName: node
   linkType: hard
 
@@ -2487,7 +2487,7 @@ __metadata:
   resolution: "test-switcher@workspace:."
   dependencies:
     "@types/mocha": ^10.0.1
-    "@types/node": ^20.7.1
+    "@types/node": 16.x
     "@types/vscode": ^1.82.0
     "@typescript-eslint/eslint-plugin": ^6.4.1
     "@typescript-eslint/parser": ^6.4.1
