@@ -29,11 +29,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/node", "npm:16.18.75"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
-            ["@vscode/test-electron", "npm:2.3.4"],\
+            ["@vscode/test-electron", "npm:2.3.9"],\
             ["eslint", "npm:8.50.0"],\
             ["glob", "npm:10.3.10"],\
             ["mocha", "npm:10.2.0"],\
@@ -250,10 +250,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:20.7.1", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.7.1-35d2d24f0c-3140bd6c91.zip/node_modules/@types/node/",\
+        ["npm:16.18.75", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.18.75-19df230a71-c118a26ee2.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.7.1"]\
+            ["@types/node", "npm:16.18.75"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -488,10 +488,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@vscode/test-electron", [\
-        ["npm:2.3.4", {\
-          "packageLocation": "./.yarn/cache/@vscode-test-electron-npm-2.3.4-cdb0185d02-78de21d66b.zip/node_modules/@vscode/test-electron/",\
+        ["npm:2.3.9", {\
+          "packageLocation": "./.yarn/cache/@vscode-test-electron-npm-2.3.9-ed37315e47-76877419ab.zip/node_modules/@vscode/test-electron/",\
           "packageDependencies": [\
-            ["@vscode/test-electron", "npm:2.3.4"],\
+            ["@vscode/test-electron", "npm:2.3.9"],\
             ["http-proxy-agent", "npm:4.0.1"],\
             ["https-proxy-agent", "npm:5.0.1"],\
             ["jszip", "npm:3.10.1"],\
@@ -2963,11 +2963,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["test-switcher", "workspace:."],\
             ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/node", "npm:16.18.75"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
-            ["@vscode/test-electron", "npm:2.3.4"],\
+            ["@vscode/test-electron", "npm:2.3.9"],\
             ["eslint", "npm:8.50.0"],\
             ["glob", "npm:10.3.10"],\
             ["mocha", "npm:10.2.0"],\
