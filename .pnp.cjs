@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/node", "npm:16.18.82"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
@@ -250,10 +250,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:20.7.1", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.7.1-35d2d24f0c-3140bd6c91.zip/node_modules/@types/node/",\
+        ["npm:16.18.82", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.18.82-bed8d90c35-ace573877c.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.7.1"]\
+            ["@types/node", "npm:16.18.82"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1797,10 +1797,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ip", [\
-        ["npm:2.0.0", {\
-          "packageLocation": "./.yarn/cache/ip-npm-2.0.0-204facb3cc-cfcfac6b87.zip/node_modules/ip/",\
+        ["npm:2.0.1", {\
+          "packageLocation": "./.yarn/cache/ip-npm-2.0.1-ee48691f03-d765c9fd21.zip/node_modules/ip/",\
           "packageDependencies": [\
-            ["ip", "npm:2.0.0"]\
+            ["ip", "npm:2.0.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2801,7 +2801,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/socks-npm-2.7.1-17f2b53052-259d9e3e8e.zip/node_modules/socks/",\
           "packageDependencies": [\
             ["socks", "npm:2.7.1"],\
-            ["ip", "npm:2.0.0"],\
+            ["ip", "npm:2.0.1"],\
             ["smart-buffer", "npm:4.2.0"]\
           ],\
           "linkType": "HARD"\
@@ -2963,7 +2963,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["test-switcher", "workspace:."],\
             ["@types/mocha", "npm:10.0.2"],\
-            ["@types/node", "npm:20.7.1"],\
+            ["@types/node", "npm:16.18.82"],\
             ["@types/vscode", "npm:1.82.0"],\
             ["@typescript-eslint/eslint-plugin", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
             ["@typescript-eslint/parser", "virtual:695884f81e332cdb85384ce311bb7719be15fc7384f2ea7a43b1026bbc2e1b0743bf1b16f026735431226a54b064723cbe629c7b9943c5d998d2920abb8c191e#npm:6.7.3"],\
