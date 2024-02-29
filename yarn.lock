@@ -164,10 +164,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.7.1":
-  version: 20.7.1
-  resolution: "@types/node@npm:20.7.1"
-  checksum: 3140bd6c9130f1ed73a78ce7a1765ee43e155c1eea50eea45e18faeb31d11d97a84fffdc5e3a97582101d2f57d2652a50f510ede6c702780267bad74c822d56c
+"@types/node@npm:16.x":
+  version: 16.18.85
+  resolution: "@types/node@npm:16.18.85"
+  checksum: f44b06429ccaeb0cd26291f41deeff2ebbf1a479da9a38af739bd8f77fd02749aa744ef903e179c2136573ab0a225c8132d0db68832d73e8ef8a96341d669893
   languageName: node
   linkType: hard
 
@@ -179,9 +179,9 @@ __metadata:
   linkType: hard
 
 "@types/vscode@npm:^1.82.0":
-  version: 1.82.0
-  resolution: "@types/vscode@npm:1.82.0"
-  checksum: 2c546b61a0f52c8153bf52645e230e192609a77cd482c96a8eaa5f7008763b25bab684c688a77713dcb087464f99ff979a232bf145038f9cb91a395feb6a09d9
+  version: 1.87.0
+  resolution: "@types/vscode@npm:1.87.0"
+  checksum: e194a526aa359c176a192c8271d499163ec76b54c7d950bf3e83a2578e970e3b002a79a1f9d41a35b7988867d474403d693ae8d4957a0a527cf89d65ae0608a0
   languageName: node
   linkType: hard
 
@@ -2487,7 +2487,7 @@ __metadata:
   resolution: "test-switcher@workspace:."
   dependencies:
     "@types/mocha": ^10.0.1
-    "@types/node": ^20.7.1
+    "@types/node": 16.x
     "@types/vscode": ^1.82.0
     "@typescript-eslint/eslint-plugin": ^6.4.1
     "@typescript-eslint/parser": ^6.4.1
